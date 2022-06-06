@@ -1,12 +1,12 @@
 {
-  "name": "portfolio",
-  "version": "0.1.0",
   "private": true,
+  "homepage": "https://shokyo.github.io",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next export"
   },
   "dependencies": {
     "next": "12.1.6",
